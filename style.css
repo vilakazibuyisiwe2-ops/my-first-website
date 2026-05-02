@@ -1,15 +1,25 @@
 body {
-  font-family: Arial;
-  margin: 20px;
-}
-
-nav a {
-  margin: 10px;
-  text-decoration: none;
-  color: black;
-  font-weight: bold;
+  font-family: Arial, sans-serif;
+  background-color: #fff8f0;
+  color: #333;
+  margin: 0;
+  padding: 20px;
 }
 
 h1 {
-  color: darkred;
+  color: #d35400;
+  text-align: center;
+}
+
+nav {
+  background-color: #d35400;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
 }
