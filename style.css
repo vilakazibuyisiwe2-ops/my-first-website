@@ -1,0 +1,15 @@
+body {
+  font-family: Arial;
+  margin: 20px;
+}
+
+nav a {
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+h1 {
+  color: darkred;
+}
