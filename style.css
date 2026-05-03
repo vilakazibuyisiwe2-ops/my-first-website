@@ -43,5 +43,10 @@ h2 {
 }
 
 p {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
+}
+div {
+  border: 1px solid orange;
+  margin-bottom: 20px;
+  padding: 15px;
 }
