@@ -5,7 +5,11 @@ body {
   margin: 0;
   padding: 20px;
 }
-
+.tagline {
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 20px;
+}
 h1 {
   color: #d35400;
   text-align: center;
